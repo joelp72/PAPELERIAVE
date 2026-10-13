@@ -1,0 +1,6 @@
+{
+  "name": "PapeleraVE - Control de Inventario & Ventas",
+  "description": "Sistema de gestión de inventario y punto de venta para papelerías en Venezuela con control bimoneda en Bolívares y Dólares, tasa del día y salidas por venta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
